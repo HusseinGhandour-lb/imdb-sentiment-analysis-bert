@@ -32,9 +32,9 @@ python src/evaluate.py
 python src/predict.py
 
 ## 🧠 Model
-BERT base uncased
-2 epochs training
-Learning rate: 2e-5
+- BERT base uncased
+- 2 epochs training
+- Learning rate: 2e-5
 
 ## 📚 Dataset
 IMDB dataset from Hugging Face
