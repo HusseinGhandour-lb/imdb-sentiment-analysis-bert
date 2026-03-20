@@ -22,13 +22,13 @@ cd imdb-sentiment-bert
 pip install -r requirements.txt
 ```
 
-🏋️ Training
+### 🏋️ Training
 python src/train.py
 
-📊 Evaluation
+### 📊 Evaluation
 python src/evaluate.py
 
-🔍 Prediction
+### 🔍 Prediction
 python src/predict.py
 
 ## 🧠 Model
